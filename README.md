@@ -1,6 +1,6 @@
 # Scraping_Avito
 An integrated web scraping solution for Avito’s real estate section, designed with GDPR compliance in mind to avoid collecting personal information. This project serves as an educational challenge for an introduction to data engineering.
- [image](https://github.com/user-attachments/assets/efe15ffa-8004-4ee0-a62f-cb09aec8f6de)
+ ![image](https://github.com/user-attachments/assets/efe15ffa-8004-4ee0-a62f-cb09aec8f6de)
 
 ### Project Goals
 The main goal of this project is educational, aimed at helping users gain familiarity with Python and popular frameworks like Pandas and Selenium.
