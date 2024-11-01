@@ -44,7 +44,7 @@ Two scraping approaches are provided:
 ##### Fast Data Collection: Optimized for speed to collect data quickly, though with an increased chance of detection.
 #### Resources
 For more in-depth information, consult the Selenium documentation.
-
-#### Conclusion
+#### licence 
+I reached out to the HR Business Partner at Avito regarding permissions but have not yet received a response.#### Conclusion
 This project complies with GDPR regulations and is strictly for educational use only, with no support for malicious purposes.
 
